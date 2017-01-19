@@ -10,4 +10,4 @@
 
 All VM shares the same management network.
 
-![Lab](/01_build_the_lan/lab.png)
+![Lab](/01_build_the_lab/lab.png)
